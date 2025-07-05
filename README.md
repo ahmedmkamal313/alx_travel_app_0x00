@@ -27,8 +27,3 @@ alx_travel_app/
 ```
 
 ---
-
-## 🚀 Setup
-
-See [`alx_travel_app/README.md`](./alx_travel_app/README.md) for detailed environment setup.
-
